@@ -7,7 +7,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
+
 1. Import the necessary packages.
 2. Read the given csv file and display the few contents of the data.
 3. Assign the features for x and y respectively.
@@ -81,11 +82,12 @@ accuracy
 
 ### data.info():
 
-![ml9_3](https://github.com/Skanthasishanth/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118298456/59ef4d19-90c0-40a4-86ac-925e7b1aa41e)
+![ml9(3)](https://github.com/Skanthasishanth/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118298456/827af385-e6d5-45b6-80c5-12d9a9c0e973)
 
 ### data.isnull().sum():
 
-![ml9_4](https://github.com/Skanthasishanth/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118298456/24d7e31c-c7a4-4bc5-9bc1-7541cfe97856)
+![ml9(4)](https://github.com/Skanthasishanth/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118298456/c461664d-3267-4a76-9eb1-62ee2b53b086)
+
 
 ### Y_prediction value:
 
