@@ -78,7 +78,8 @@ accuracy
 
 ### data.head():
 
-![ml9_2](https://github.com/Skanthasishanth/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118298456/82fc1f31-c29f-4780-9882-7ec28be4fc79)
+![ml9(2)](https://github.com/Skanthasishanth/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118298456/0d6cb7a6-878b-4135-b98a-6beb02a5e8f2)
+
 
 ### data.info():
 
